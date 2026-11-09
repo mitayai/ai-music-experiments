@@ -61,9 +61,13 @@ The prompts, lyrics and decisions came from a human working with an AI coding as
 | Built-in browser pane | Driving ACE-Step's Gradio web UI in the first (failed) attempt |
 | `ffprobe` / `ffmpeg` 8.0.1 (`volumedetect`) | Checking each file's length and loudness, the only verification possible (the assistant cannot hear audio) |
 | `git`, `gh` | Fetching ACE-Step's source and documentation; building this repo |
-| `speak` (a local script around Piper TTS, voice `en_US-ryan-high`) | Reading the song table aloud before playback. Piper is an offline neural text-to-speech engine |
-| `ffplay` (part of FFmpeg) | Playing each song through the PC's speakers |
+| `speak` (a local script around Piper TTS, voice `en_US-ryan-high`) | Saying each song's details aloud just before it plays (title, perspective, sound, vocals). Piper is an offline neural text-to-speech engine. See "Why the assistant speaks and plays audio" below |
+| `ffplay` (part of FFmpeg) | Playing each song through the PC's speakers, one after another |
 | Python scripts | Generating the request files and, for the team songs, the song pages from the exact request files, so the lyrics on each page match what the model received |
+
+### Why the assistant speaks and plays audio
+
+The human often multitasks with everyday activities (chores, for example) while long jobs run, and is frequently **not looking at the screen or near a keyboard**. So rather than relying on text on screen, the assistant uses the local `speak` tool to announce what is about to happen and plays results through the speakers, and it runs long tasks in the background so nothing waits on a keypress. This also shaped the playback itself: a first version read all six songs' details and only then played the songs, which didn't work for someone listening from across the room. The second version says one song's details, plays that song, then moves to the next. When input is needed while the human is away, the plan is to say so aloud rather than stall silently.
 
 **Limits worth knowing:** the assistant could not listen to any track. Its automated safety layer twice blocked actions (installing from an external repo, and creating a background timer) until the human approved or declined them; see [process](process.md).
 
