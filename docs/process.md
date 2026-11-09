@@ -44,7 +44,13 @@ Lesson: when the style reference can't be read, ask for it rather than guess.
 
 The assistant wrote three songs from different angles, all in the futurepop / EBM style: [Hot Aisle](../futurepop/hot-aisle.md) (a night maintenance window), [Overcommitted](../futurepop/overcommitted.md) (overselling capacity, a harsher industrial take) and [Spare Parts](../futurepop/spare-parts.md) (no budget for spares, female vocals). Two takes each, generated through the REST API with the server started and stopped on demand.
 
-## 6. This repository
+## 6. Team-perspective songs, with real band styles
+
+**Human (verbatim):** the long prompt quoted on each [song page](../rock/red-board.md) asking for songs from different teams' perspectives (status-board watchers, on-call engineers, data-centre hands, capacity planners, sales, and one about "it's not DNS; oh wait, yes it is") with strings, guitar "like Rush", keyboards "like Queen", drums "like Genesis / Phil Collins" and clarinet where they fit.
+
+The assistant wrote six songs and matched each to a sound: [Red Board](../rock/red-board.md) (Rush-style prog rock), [Three A.M. Page](../rock/three-am-page.md) (Queen-style stadium rock with piano), [Quota](../rock/quota.md) (Queen-style funk rock), [Remote Hands](../art-pop/remote-hands.md) (Genesis / Phil Collins-style gated-drum art pop), [Forecast](../art-pop/forecast.md) (strings-led orchestral pop) and [It Was DNS](../jazz-swing/it-was-dns.md) (clarinet swing). Two takes each. At the human's request the assistant then read the song table aloud with the local Piper text-to-speech voice and played take 1 of each song through the PC's speakers with ffplay.
+
+## 7. This repository
 
 **Human:** asked for all tracks to be published to GitHub, sorted by style, with READMEs and pages describing the human's prompts, the assistant's prompts, and the frameworks, models and tools used; later asked for a note that AI-generated tracks are not copyrightable. The assistant worded that note more carefully (it is not a flat "not copyrightable": the position is jurisdiction-dependent and not legal advice). The human then pointed out they are Canadian, so the note now covers Canada first (checked against public sources), then the US.
 

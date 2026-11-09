@@ -12,6 +12,9 @@ The running theme is the physical hardware behind the cloud: data-centre racks, 
 |---|---|---|
 | [Trance](trance/README.md) | 2 songs, 4 full-length files (epic uplifting trance; female vocals and male vocals, two takes each) | [trance/](trance/README.md) |
 | [Futurepop / EBM / dark synthpop](futurepop/README.md) | 4 songs, 7 full-length files (a server-room theme, male and female vocals) | [futurepop/](futurepop/README.md) |
+| [Rock](rock/README.md) | 3 songs, 6 files (prog rock, stadium rock, funk rock: the ops centre, on-call and sales perspectives) | [rock/](rock/README.md) |
+| [Art pop / orchestral pop](art-pop/README.md) | 2 songs, 4 files (data-centre techs and capacity planners) | [art-pop/](art-pop/README.md) |
+| [Jazz swing](jazz-swing/README.md) | 1 song, 2 files (clarinet-led, about DNS) | [jazz-swing/](jazz-swing/README.md) |
 | [Tests](tests/README.md) | 2 short instrumental clips used to check the setup works | [tests/](tests/README.md) |
 
 ## How it was made

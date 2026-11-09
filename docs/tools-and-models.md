@@ -61,6 +61,9 @@ The prompts, lyrics and decisions came from a human working with an AI coding as
 | Built-in browser pane | Driving ACE-Step's Gradio web UI in the first (failed) attempt |
 | `ffprobe` / `ffmpeg` 8.0.1 (`volumedetect`) | Checking each file's length and loudness, the only verification possible (the assistant cannot hear audio) |
 | `git`, `gh` | Fetching ACE-Step's source and documentation; building this repo |
+| `speak` (a local script around Piper TTS, voice `en_US-ryan-high`) | Reading the song table aloud before playback. Piper is an offline neural text-to-speech engine |
+| `ffplay` (part of FFmpeg) | Playing each song through the PC's speakers |
+| Python scripts | Generating the request files and, for the team songs, the song pages from the exact request files, so the lyrics on each page match what the model received |
 
 **Limits worth knowing:** the assistant could not listen to any track. Its automated safety layer twice blocked actions (installing from an external repo, and creating a background timer) until the human approved or declined them; see [process](process.md).
 
