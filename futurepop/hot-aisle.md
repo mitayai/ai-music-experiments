@@ -1,6 +1,7 @@
 # Hot Aisle (male baritone vocals, 3:30)
 
 Files: [take 1](audio/hot-aisle-v1.mp3) · [take 2](audio/hot-aisle-v2.mp3)
+Lyrics: [lyrics page](../lyrics/hot-aisle.md)
 Back to [futurepop](README.md) · [index](../README.md)
 
 **Theme:** The midnight maintenance window: swapping a failing board while management says there can be no downtime.

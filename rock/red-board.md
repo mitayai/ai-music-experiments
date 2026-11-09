@@ -1,6 +1,7 @@
 # Red Board (male tenor vocals, 3:30)
 
 Files: [take 1](audio/red-board-v1.mp3) · [take 2](audio/red-board-v2.mp3)
+Lyrics: [lyrics page](../lyrics/red-board.md)
 Back to [rock](README.md) · [index](../README.md)
 
 **Perspective:** the operations centre team who watch the status boards, respond to crashes and sound the alarms.

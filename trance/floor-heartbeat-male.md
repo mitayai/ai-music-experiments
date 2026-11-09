@@ -1,6 +1,7 @@
 # Floor Heartbeat, trance version (male vocals, 3:30)
 
 Files: [take 1](audio/floor-heartbeat-male-v1.mp3) · [take 2](audio/floor-heartbeat-male-v2.mp3)
+Lyrics: [lyrics page](../lyrics/floor-heartbeat-male.md)
 Back to [trance](README.md) · [index](../README.md)
 
 > **Status: wrong style.** The human's reference playlist turned out to be futurepop / EBM, not trance ("definitely not trance"). This was regenerated as [Floor Heartbeat (futurepop)](../futurepop/floor-heartbeat-futurepop.md). Kept for the record.

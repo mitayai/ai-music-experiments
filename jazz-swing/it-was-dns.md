@@ -1,6 +1,7 @@
 # It Was DNS (male, playful storyteller vocals, 3:00)
 
 Files: [take 1](audio/it-was-dns-v1.mp3) · [take 2](audio/it-was-dns-v2.mp3)
+Lyrics: [lyrics page](../lyrics/it-was-dns.md)
 Back to [jazz-swing](README.md) · [index](../README.md)
 
 **Perspective:** everyone, in the classic five stages of an outage that is always DNS.

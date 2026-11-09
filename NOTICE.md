@@ -21,9 +21,14 @@
 
 - Other countries treat this differently and several are still deciding.
 
+## Training data
+
+The model's authors say it was trained on licensed music, public-domain / royalty-free music, and synthetic MIDI-rendered audio. They do not publish which recordings, how much of each, or what consent or opt-out terms applied, and I could not verify the claim. Details, quotes and sources: [docs/training-data.md](docs/training-data.md).
+
 ## Other cautions
 
-- **Third-party similarity:** AI music models can produce output that resembles existing works. No originality check against existing music has been done. Some prompts name real artists as *style references only*; no samples, stems or melodies from them were used.
+- **Third-party similarity:** AI music models can produce output that resembles existing works. No originality check against existing music has been done. Some prompts name real artists as *style references only*; no samples, stems or melodies from them were used, no attempt was made to imitate any individual's voice, and naming a style implies no involvement, approval or affiliation. Whether any named artist's recordings were in the model's training data is not disclosed.
+- **Concerns:** if you are an artist or rights holder and something here concerns you, please open an issue on this repository.
 - **Licence of the tool:** ACE-Step is MIT-licensed, which does not restrict use of generated output. See [docs/tools-and-models.md](docs/tools-and-models.md).
 - Anyone who reuses these tracks should disclose that they are AI-generated, in line with the model authors' own guidance.
 

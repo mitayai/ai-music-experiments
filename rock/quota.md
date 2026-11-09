@@ -1,6 +1,7 @@
 # Quota (male, confident with falsetto vocals, 3:30)
 
 Files: [take 1](audio/quota-v1.mp3) · [take 2](audio/quota-v2.mp3)
+Lyrics: [lyrics page](../lyrics/quota.md)
 Back to [rock](README.md) · [index](../README.md)
 
 **Perspective:** the sales team who need to sell to keep their jobs.

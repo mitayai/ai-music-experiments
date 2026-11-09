@@ -1,6 +1,7 @@
 # Forecast (female, hopeful and anxious vocals, 3:30)
 
 Files: [take 1](audio/forecast-v1.mp3) · [take 2](audio/forecast-v2.mp3)
+Lyrics: [lyrics page](../lyrics/forecast.md)
 Back to [art-pop](README.md) · [index](../README.md)
 
 **Perspective:** the capacity planners trying to stay ahead of demand.

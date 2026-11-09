@@ -1,6 +1,7 @@
 # Overcommitted (harsh male vocals, 3:30)
 
 Files: [take 1](audio/overcommitted-v1.mp3) · [take 2](audio/overcommitted-v2.mp3)
+Lyrics: [lyrics page](../lyrics/overcommitted.md)
 Back to [futurepop](README.md) · [index](../README.md)
 
 **Theme:** Sales selling the same server twice: capacity oversold against hardware that can't deliver.

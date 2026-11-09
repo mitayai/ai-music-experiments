@@ -1,6 +1,7 @@
 # Floor Heartbeat (futurepop, male vocals, 3:30)
 
 File: [take 1](audio/floor-heartbeat-futurepop-v1.mp3)
+Lyrics: [lyrics page](../lyrics/floor-heartbeat-futurepop.md)
 Back to [futurepop](README.md) · [index](../README.md)
 
 ## The human's prompts (verbatim, in order)

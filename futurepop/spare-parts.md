@@ -1,6 +1,7 @@
 # Spare Parts (female vocals, 3:30)
 
 Files: [take 1](audio/spare-parts-v1.mp3) · [take 2](audio/spare-parts-v2.mp3)
+Lyrics: [lyrics page](../lyrics/spare-parts.md)
 Back to [futurepop](README.md) · [index](../README.md)
 
 **Theme:** No budget for spares: keeping expensive, ageing servers alive with cannibalised parts and hope.

@@ -1,6 +1,7 @@
 # Three A.M. Page (male, operatic lead with layered harmonies vocals, 3:30)
 
 Files: [take 1](audio/three-am-page-v1.mp3) · [take 2](audio/three-am-page-v2.mp3)
+Lyrics: [lyrics page](../lyrics/three-am-page.md)
 Back to [rock](README.md) · [index](../README.md)
 
 **Perspective:** the engineers who get paged when things crash and won't come back up.

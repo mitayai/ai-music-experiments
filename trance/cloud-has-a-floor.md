@@ -1,6 +1,7 @@
 # The Cloud Has a Floor (trance, female vocals, 3:00)
 
 Files: [take 1](audio/cloud-has-a-floor-v1.mp3) · [take 2](audio/cloud-has-a-floor-v2.mp3)
+Lyrics: [lyrics page](../lyrics/cloud-has-a-floor.md)
 Back to [trance](README.md) · [index](../README.md)
 
 ## The human's prompt (verbatim)

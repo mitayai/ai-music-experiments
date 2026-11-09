@@ -1,6 +1,7 @@
 # Remote Hands (male, warm and emotional vocals, 3:30)
 
 Files: [take 1](audio/remote-hands-v1.mp3) · [take 2](audio/remote-hands-v2.mp3)
+Lyrics: [lyrics page](../lyrics/remote-hands.md)
 Back to [art-pop](README.md) · [index](../README.md)
 
 **Perspective:** the data centre technicians who do everything that needs hands on the machines.
