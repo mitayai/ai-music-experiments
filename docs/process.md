@@ -40,7 +40,7 @@ Lesson: when the style reference can't be read, ask for it rather than guess.
 
 ## 5. This repository
 
-**Human:** asked for all tracks to be published to GitHub, sorted by style, with READMEs and pages describing the human's prompts, the assistant's prompts, and the frameworks, models and tools used; later asked for a note that AI-generated tracks are not copyrightable. The assistant worded that note more carefully (the statement is the US Copyright Office's position, other countries differ, and it is not legal advice).
+**Human:** asked for all tracks to be published to GitHub, sorted by style, with READMEs and pages describing the human's prompts, the assistant's prompts, and the frameworks, models and tools used; later asked for a note that AI-generated tracks are not copyrightable. The assistant worded that note more carefully (it is not a flat "not copyrightable": the position is jurisdiction-dependent and not legal advice). The human then pointed out they are Canadian, so the note now covers Canada first (checked against public sources), then the US.
 
 ## Not verified
 
