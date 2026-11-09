@@ -11,7 +11,7 @@ The running theme is the physical hardware behind the cloud: data-centre racks, 
 | Style | Tracks | Page |
 |---|---|---|
 | [Trance](trance/README.md) | 2 songs, 4 full-length files (epic uplifting trance; female vocals and male vocals, two takes each) | [trance/](trance/README.md) |
-| [Futurepop / EBM / dark synthpop](futurepop/README.md) | 1 full-length track (male vocals) | [futurepop/](futurepop/README.md) |
+| [Futurepop / EBM / dark synthpop](futurepop/README.md) | 4 songs, 7 full-length files (a server-room theme, male and female vocals) | [futurepop/](futurepop/README.md) |
 | [Tests](tests/README.md) | 2 short instrumental clips used to check the setup works | [tests/](tests/README.md) |
 
 ## How it was made

@@ -38,7 +38,13 @@ The assistant could not read the playlist page (only its title was exposed), so 
 
 Lesson: when the style reference can't be read, ask for it rather than guess.
 
-## 5. This repository
+## 5. More songs: server maintenance under pressure
+
+**Human (verbatim):** "write a few more songs about managing server maintenance in an environment where servers are expensive and the pressure is to sell as much as possible"
+
+The assistant wrote three songs from different angles, all in the futurepop / EBM style: [Hot Aisle](../futurepop/hot-aisle.md) (a night maintenance window), [Overcommitted](../futurepop/overcommitted.md) (overselling capacity, a harsher industrial take) and [Spare Parts](../futurepop/spare-parts.md) (no budget for spares, female vocals). Two takes each, generated through the REST API with the server started and stopped on demand.
+
+## 6. This repository
 
 **Human:** asked for all tracks to be published to GitHub, sorted by style, with READMEs and pages describing the human's prompts, the assistant's prompts, and the frameworks, models and tools used; later asked for a note that AI-generated tracks are not copyrightable. The assistant worded that note more carefully (it is not a flat "not copyrightable": the position is jurisdiction-dependent and not legal advice). The human then pointed out they are Canadian, so the note now covers Canada first (checked against public sources), then the US.
 
